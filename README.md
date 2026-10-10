@@ -4,8 +4,8 @@ An end-to-end machine-learning project that predicts whether a telecom customer 
 likely to leave, served through an interactive **Streamlit** app and deployed on
 **Render**.
 
-> **Deployment URL:** _to be added after Render deploy (Phase 6)_
-> **Live screenshots:** _to be added after final UI polish (Phase 7)_
+> **Deployment URL:** [https://churnguard-o1j3.onrender.com/](https://churnguard-o1j3.onrender.com/)
+> **Live screenshots:** _add after final UI polish — see `notebooks/exploration.ipynb` for charts and Pages 2–4 for the live UI_
 
 ---
 

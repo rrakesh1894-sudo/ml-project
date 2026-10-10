@@ -17,7 +17,7 @@ _[GitHub](https://github.com/rrakesh1894-sudo/ml-project)_
 - Built a 4-page Streamlit app (prediction form, model performance dashboard,
   dataset insights) that serves the serialized scikit-learn pipeline via
   `joblib` — no retraining on request.
-  **Deployed:** _[Render URL — to be filled in]_
+  **Deployed:** [https://churnguard-o1j3.onrender.com/](https://churnguard-o1j3.onrender.com/)
 
 ---
 
